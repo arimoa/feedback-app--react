@@ -1,5 +1,5 @@
-# feedback-app_React
-How to use:
+# feedback-app--react
+## How to use
 1. Download it
 2. Extract it
 3. run **npm install** in the extracted folder
